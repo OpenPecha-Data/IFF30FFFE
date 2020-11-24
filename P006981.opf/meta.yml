@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6943
   title: འབྲས་སྤུངས་ཀྱི་གདན་རབས་རིམ་བྱོན་གྱི་རྣམ་ཐར།
-  volume: ''
+  volume:
+    eed13c38e4c440a791e2571d6061f230:
+      image_group_id: I3CN6945
+      title: Volume 1 of dpal ldan 'bras dkar spungs pa'i gdan rabs rim byon gyi rnam
+        thar/
+      volume_number: 1
+      total_pages: 284
   author: ''
+ebook_metadata:
+  title: འབྲས་སྤུངས་ཀྱི་གདན་རབས་རིམ་བྱོན་གྱི་རྣམ་ཐར།
+  author: ''
+  sku: P006981
+  cover: cover.jpg
+  layers:
+  - pagination
